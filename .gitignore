@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / C-extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+# Use the name of your venv folder
+image_converter_venv/
+# Or use common names to be safe
+venv/
+.venv/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
